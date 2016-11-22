@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Torch App</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="turn_on">Press the button to turn the light on</string>
+    <string name="turn_off">Press the button to turn the light off</string>
+
+</resources>
